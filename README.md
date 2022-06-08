@@ -17,7 +17,8 @@ This package provides two alternative assignment operators for R:
      assign         explode-
                     assign
 
-Inspired by Matt Dray’s “down-assign” operator (see his [tweet]() and
+Inspired by Matt Dray’s “down-assign” operator (see his
+[tweet](https://twitter.com/mattdray/status/1533996890341183488) and
 [blog post](https://www.rostrum.blog/2022/06/07/assign-down/)), the
 explode-assign and double-explode-assign operators are for when you
 *really* want to assign values to variables.
