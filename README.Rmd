@@ -95,6 +95,8 @@ f = function() {
 f()
 f()
 f()
+
+y
 ```
 
 ## Note
