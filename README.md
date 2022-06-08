@@ -6,7 +6,7 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-This package provide two alternative assignment operators for R:
+This package provides two alternative assignment operators for R:
 
 
         |             ||
